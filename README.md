@@ -1,2 +1,2 @@
 # Centos7.1-Mesos0.28
-Centos 7.1  with mesos 0.28 installed 
+Mesos 0.28 installation script for CentOS 7.1
